@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mariano Sigman | Federico Zimmerman</title>
+    <link>https://fedezimmer.github.io/es/authors/mariano-sigman/</link>
+      <atom:link href="https://fedezimmer.github.io/es/authors/mariano-sigman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mariano Sigman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fedezimmer.github.io/media/icon_hue694aa31a42908c8c0687e298f41c95d_4560_512x512_fill_lanczos_center_3.png</url>
+      <title>Mariano Sigman</title>
+      <link>https://fedezimmer.github.io/es/authors/mariano-sigman/</link>
+    </image>
+    
+    <item>
+      <title>Political coherence and certainty as drivers of interpersonal liking over and above similarity</title>
+      <link>https://fedezimmer.github.io/es/publication/zimmerman2021/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://fedezimmer.github.io/es/publication/zimmerman2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arithmetic on Your Phone. A Large Scale Investigation of Simple Additions and Multiplications</title>
+      <link>https://fedezimmer.github.io/es/publication/zimmerman2016/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://fedezimmer.github.io/es/publication/zimmerman2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
