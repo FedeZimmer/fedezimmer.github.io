@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amit Goldenberg | Federico Zimmerman</title>
+    <link>https://fedezimmer.github.io/authors/amit-goldenberg/</link>
+      <atom:link href="https://fedezimmer.github.io/authors/amit-goldenberg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amit Goldenberg</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fedezimmer.github.io/media/icon_hue694aa31a42908c8c0687e298f41c95d_4560_512x512_fill_lanczos_center_3.png</url>
+      <title>Amit Goldenberg</title>
+      <link>https://fedezimmer.github.io/authors/amit-goldenberg/</link>
+    </image>
+    
+    <item>
+      <title>Attraction to politically extreme users on social media</title>
+      <link>https://fedezimmer.github.io/publication/zimmerman2024b/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://fedezimmer.github.io/publication/zimmerman2024b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
