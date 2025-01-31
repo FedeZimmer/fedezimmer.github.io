@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pablo A. Gonzalez | Federico Zimmerman</title>
+    <link>https://fedezimmer.github.io/es/authors/pablo-a.-gonzalez/</link>
+      <atom:link href="https://fedezimmer.github.io/es/authors/pablo-a.-gonzalez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pablo A. Gonzalez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>es-es</language><lastBuildDate>Thu, 29 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fedezimmer.github.io/media/icon_hue694aa31a42908c8c0687e298f41c95d_4560_512x512_fill_lanczos_center_3.png</url>
+      <title>Pablo A. Gonzalez</title>
+      <link>https://fedezimmer.github.io/es/authors/pablo-a.-gonzalez/</link>
+    </image>
+    
+    <item>
+      <title>Arithmetic on Your Phone. A Large Scale Investigation of Simple Additions and Multiplications</title>
+      <link>https://fedezimmer.github.io/es/publication/zimmerman2016/</link>
+      <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://fedezimmer.github.io/es/publication/zimmerman2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
