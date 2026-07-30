@@ -4,37 +4,7 @@
   
   
   <url>
-    <loc>https://fedezimmer.github.io/es/courses/example/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/courses/example/python/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/courses/example/python/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/courses/example/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/courses/example/visualization/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/courses/example/visualization/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/courses/example/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/courses/example/stats/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/courses/example/stats/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><xhtml:link
+    <loc>https://fedezimmer.github.io/es/</loc><lastmod>2024-10-01T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://fedezimmer.github.io/"
@@ -42,26 +12,6 @@
       rel="alternate"
       hreflang="es"
       href="https://fedezimmer.github.io/es/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/talk/example-talk/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/talk/example-talk/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/event/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/event/"
     /></url>
   <url>
     <loc>https://fedezimmer.github.io/es/authors/amit-goldenberg/</loc><lastmod>2024-10-01T00:00:00+00:00</lastmod><xhtml:link
@@ -284,126 +234,6 @@
       href="https://fedezimmer.github.io/es/publication/zimmerman2022/"
     /></url>
   <url>
-    <loc>https://fedezimmer.github.io/es/courses/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/courses/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/courses/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/courses/example/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/courses/example/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/courses/example/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/tag/academic/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/tag/academic/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/categories/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/categories/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/category/demo/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/category/demo/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/post/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/post/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/post/getting-started/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/post/getting-started/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/authors/%E5%90%B3%E6%81%A9%E9%81%94/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/authors/%E5%90%B3%E6%81%A9%E9%81%94/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/authors/%E5%90%B3%E6%81%A9%E9%81%94/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/tag/%E5%BC%80%E6%BA%90/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/tag/%E5%BC%80%E6%BA%90/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/category/%E6%95%99%E7%A8%8B/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/category/%E6%95%99%E7%A8%8B/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/post/writing-technical-content/</loc><lastmod>2019-07-12T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/post/writing-technical-content/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/post/writing-technical-content/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/post/jupyter/</loc><lastmod>2019-09-05T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/post/jupyter/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/post/jupyter/"
-    /></url>
-  <url>
     <loc>https://fedezimmer.github.io/es/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -494,56 +324,6 @@
       href="https://fedezimmer.github.io/es/authors/stanislas-dehaene/"
     /></url>
   <url>
-    <loc>https://fedezimmer.github.io/es/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/tag/deep-learning/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/tag/deep-learning/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/tag/demo/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/tag/demo/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/tag/demo/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/project/external-project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/project/external-project/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/project/external-project/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/project/internal-project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/project/internal-project/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/project/internal-project/"
-    /></url>
-  <url>
-    <loc>https://fedezimmer.github.io/es/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://fedezimmer.github.io/project/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="es"
-      href="https://fedezimmer.github.io/es/project/"
-    /></url>
-  <url>
     <loc>https://fedezimmer.github.io/es/admin/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -554,6 +334,36 @@
       href="https://fedezimmer.github.io/es/admin/"
     /></url>
   <url>
+    <loc>https://fedezimmer.github.io/es/categories/</loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://fedezimmer.github.io/categories/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://fedezimmer.github.io/es/categories/"
+    /></url>
+  <url>
+    <loc>https://fedezimmer.github.io/es/courses/</loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://fedezimmer.github.io/courses/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://fedezimmer.github.io/es/courses/"
+    /></url>
+  <url>
+    <loc>https://fedezimmer.github.io/es/post/</loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://fedezimmer.github.io/post/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://fedezimmer.github.io/es/post/"
+    /></url>
+  <url>
     <loc>https://fedezimmer.github.io/es/publication_types/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -562,4 +372,14 @@
       rel="alternate"
       hreflang="es"
       href="https://fedezimmer.github.io/es/publication_types/"
+    /></url>
+  <url>
+    <loc>https://fedezimmer.github.io/es/event/</loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://fedezimmer.github.io/event/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="es"
+      href="https://fedezimmer.github.io/es/event/"
     /></url></urlset>
